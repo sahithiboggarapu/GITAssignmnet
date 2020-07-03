@@ -1,3 +1,9 @@
 this is first commit
 
+
 "this is change in f1"
+
+"this is f2"
+
+
+MERGE CONFLICT RESOLVED
